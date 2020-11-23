@@ -27,18 +27,18 @@ Elected Governance members shall have the following delegated powers and duties:
 - The Judicial power of the Network shall be vested in the Governance and extend to all judicial cases in law and equity arising under this Constitution.
 
 ### Section 6 - Governance Compensation
-Of the 5% inflation of RSN (The Arisen Currency - See Article 2, Section 2), 1% is paid to the elected Governance members. Of that 1%, 25% is paid on a per-block creation basis. This shall be counted as compensation for the services Governance members provide to the people and DAOs of the Network. 
+Of the 5% inflation of RIX (The Arisen Currency - See Article 2, Section 2), 1% is paid to the elected Governance members. Of that 1%, 25% is paid on a per-block creation basis. This shall be counted as compensation for the services Governance members provide to the people and DAOs of the Network. 
 
-## Article II - The Arisen Currency (RSN) 
+## Article II - The Arisen Currency (RIX) 
 
 ### Section 1 - Initial Distribution 
-70% of the initial RSN, shall be distributed to users around the world, another 10% to the founding Governance members, another 10% to the Arisen VC fund and the remaining 10% to members of the Arisen Treasury. This means 20% of the RSN in circulation will be owned by 27 users. 70% will be spread out to a multitude of users around the world and the remaining 10% will be used to fund new Network initiatives decided on by the People of the Network.
+70% of the initial RIX, shall be distributed to users around the world, another 10% to the founding Governance members, another 10% to the Arisen VC fund and the remaining 10% to members of the Arisen Treasury. This means 20% of the RIX in circulation will be owned by 27 users. 70% will be spread out to a multitude of users around the world and the remaining 10% will be used to fund new Network initiatives decided on by the People of the Network.
 
 ### Section 2 - Inflation 
-Inflation of RSN's currency shall be set at 5%. 20% of this shall be used to pay Governance members, as well as standby Governance members, with the remainder going to the "arisen.save" account.
+Inflation of RIX's currency shall be set at 5%. 20% of this shall be used to pay Governance members, as well as standby Governance members, with the remainder going to the "arisen.save" account.
 
 ### Section 3 - Valuation of Currency 
-Entities on the Network shall never use centralized oracles to value RSN's currency inside the network. RSN's intrinsic value shall be determined from the buy and sell orders between peers via decentralized exchanges hosted natively on the Network.
+Entities on the Network shall never use centralized oracles to value RIX's currency inside the network. RIX's intrinsic value shall be determined from the buy and sell orders between peers via decentralized exchanges hosted natively on the Network.
 
 ## Article III - The Arisen Network
 
@@ -58,12 +58,12 @@ The Governance reserves the right to remove all Arisen-based dTLDs, blacklist an
 - the illegal distribution of pornography.
 - any activity, relating to or consisting of fraud, illegal schemes and money laundering.
 - anything that can be construed as potential terrorist activity or threats to the security of other users.
-- any theft related to RSN or other tokens on the Network.
+- any theft related to RIX or other tokens on the Network.
 '
 Community members and foreign government officials shall have the right to report illegal activities to the Governance at anytime.
 
 ### Section 3 - Enhancement Proposals & Community Funding 
-Community initiatives shall be announce through community petitions. All petitions for community endeavors can be brought forth by community members. These petitions shall be known as ANPs or Arisen Petitions. This system shall allow communal funds to be used to support Network enhancements, community projects or anything the community feels is deserving of public funding. This system shall be funded by a portion of inflation. 
+Community initiatives shall be announce through community petitions. All petitions for community endeavors can be brought forth by community members. These petitions shall be known as AIPs or Arisen Petitions. This system shall allow communal funds to be used to support Network enhancements, community projects or anything the community feels is deserving of public funding. This system shall be funded by a portion of inflation. 
 
 ### Section 4 - Smart Contracts
 All smart contracts on the Arisen Network must include a human-readable contract that defines the intention of a computer-readable contract. These human-readable smart contracts are also referred to as "Ricardian Contracts". Contracts must also be open-sourced on GitHub and linked to a dWeb-based peer-to-peer distributed repository for community and Governance review purposes.
@@ -86,7 +86,7 @@ Developers and users of the Network have the right to innovate anything on the n
 Anyone has the right to join the Arisen Network, regardless of any race, sex or religion. 
 
 ARTICLE V - Amendments 
-The Governance has the delegated power to create and vote on amendments to this Constitution. For amendments to be made to this Constitution, the Governance must have at least 15 of the 21 elected members, vote for the amendment. Any Governance member can submit Drafted Amendment Proposals (DAPs) to other Governance members. Users of the community can also propose amendments, through ANPs, although only Governance members can DAPs.
+The Governance has the delegated power to create and vote on amendments to this Constitution. For amendments to be made to this Constitution, the Governance must have at least 15 of the 21 elected members, vote for the amendment. Any Governance member can submit Drafted Amendment Proposals (DAPs) to other Governance members. Users of the community can also propose amendments, through AIPs, although only Governance members can DAPs.
 
 ARTICLE VI - RATIFICATION
 This Constitution is hereby ratified by the initial Arisen Governance.
